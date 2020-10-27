@@ -3,7 +3,7 @@ cffi==1.13.2
 chardet==3.0.4
 Click==7.0
 configparser==4.0.2
-cryptography==2.8
+cryptography==3.2
 emoji==0.5.4
 enum34==1.1.6
 Flask==1.1.1
